@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3e2ed7a1db0cd004fa175a179759d64b
+guid: d9c35f9a20653294b874a1e55f9113cd
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tofu_whit_buff_0
+      name: BU logo horizontal_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 2
-        width: 49
-        height: 59
+        x: 0
+        y: 0
+        width: 687
+        height: 211
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,71 +124,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: efe5b718737815f4c8b29ee7ad44e3cc
-      internalID: -1282949369
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tofu_whit_buff_1
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 5
-        width: 49
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ff7e0f85b3a37da4384795ad12ceaeea
-      internalID: -1737873010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tofu_whit_buff_2
-      rect:
-        serializedVersion: 2
-        x: 131
-        y: 5
-        width: 50
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f9ff7c5cb2f7e1f4d9fb5fce7383f3e4
-      internalID: 1620696502
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tofu_whit_buff_3
-      rect:
-        serializedVersion: 2
-        x: 196
-        y: 2
-        width: 52
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4154e1e97aac6a6468358210d2177597
-      internalID: 35028192
+      spriteID: fb0911426e761934db0ac8f87e13be24
+      internalID: -1910638821
       vertices: []
       indices: 
       edges: []
@@ -196,7 +133,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: d2ace6b428e84914d8dd40d2ceb26ce5
+    spriteID: 6041a334021d0de42ae828d58241ba69
     internalID: 0
     vertices: []
     indices: 
@@ -204,10 +141,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      tofu_whit_buff_0: -1282949369
-      tofu_whit_buff_1: -1737873010
-      tofu_whit_buff_2: 1620696502
-      tofu_whit_buff_3: 35028192
+      BU logo horizontal_0: -1910638821
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

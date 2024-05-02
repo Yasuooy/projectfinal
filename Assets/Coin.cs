@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class Coin : MonoBehaviour
 {
-    private void OnCollisionEnter2D(Collision2D Other)
+    private void OnTriggerEnter2D(Collision2D other)
     {
-        if (Other.gameObject.name == "Player")
+        if (other.gameObject.name == "Player")
         {
             SCORE.myscore += 1;
             Destroy(gameObject);

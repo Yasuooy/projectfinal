@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3e2ed7a1db0cd004fa175a179759d64b
+guid: 566a044a84381ee44a8a484a509c05b6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tofu_whit_buff_0
+      name: png-clipart-shooting-target-target-corporation-bullseye-boi-symmetry-darts_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 2
-        width: 49
-        height: 59
+        x: 0
+        y: 0
+        width: 900
+        height: 720
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,71 +124,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: efe5b718737815f4c8b29ee7ad44e3cc
-      internalID: -1282949369
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tofu_whit_buff_1
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 5
-        width: 49
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ff7e0f85b3a37da4384795ad12ceaeea
-      internalID: -1737873010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tofu_whit_buff_2
-      rect:
-        serializedVersion: 2
-        x: 131
-        y: 5
-        width: 50
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f9ff7c5cb2f7e1f4d9fb5fce7383f3e4
-      internalID: 1620696502
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tofu_whit_buff_3
-      rect:
-        serializedVersion: 2
-        x: 196
-        y: 2
-        width: 52
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4154e1e97aac6a6468358210d2177597
-      internalID: 35028192
+      spriteID: 172ba64d9f58fb94497c2badf06f556a
+      internalID: -1285450001
       vertices: []
       indices: 
       edges: []
@@ -196,7 +133,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: d2ace6b428e84914d8dd40d2ceb26ce5
+    spriteID: 0e027a10ea9d1c64f9b837b846af896d
     internalID: 0
     vertices: []
     indices: 
@@ -204,10 +141,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      tofu_whit_buff_0: -1282949369
-      tofu_whit_buff_1: -1737873010
-      tofu_whit_buff_2: 1620696502
-      tofu_whit_buff_3: 35028192
+      png-clipart-shooting-target-target-corporation-bullseye-boi-symmetry-darts_0: -1285450001
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

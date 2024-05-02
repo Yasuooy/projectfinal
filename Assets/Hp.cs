@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Hp : MonoBehaviour
 
@@ -23,6 +24,8 @@ public class Hp : MonoBehaviour
         if (Health <= 0 )
         {
             Destroy(gameObject);
+            SceneManager.LoadScene("Die");
+
         }
     }
 }
